@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmatch_control_ui=self.webpackChunkmatch_control_ui||[]).push([[935],{80935:function(t,a,e){e.r(a);var n=e(42669),r=e(84149),c=e(46417);a.default=function(){return(0,c.jsx)(r.Z,{title:"Sample Card",children:(0,c.jsx)(n.Z,{variant:"body2",children:"Sample Card"})})}}}]);
